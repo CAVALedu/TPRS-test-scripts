@@ -1,6 +1,3 @@
----
-onenote-id: 9eed0248-939e-4641-b983-7a601392a97d:56
----
 **Request Details**
 
 | **TPRS Request Number:** |  |
@@ -11,24 +8,24 @@ onenote-id: 9eed0248-939e-4641-b983-7a601392a97d:56
 | --- | --- | --- |
 | **Request Type** | Copy |  |
 | ~~**Pickup Location**~~ |  |  |
-| **==🔴Service type==** |  |  |
-| **==🔴Service Level==** |  |  |
+| **🔴Service type** |  |  |
+| **🔴Service Level** |  |  |
 | **First Name** |  |  |
 | **Last Name** |  |  |
-| **==🔴Delivery email==** |  |  |
-| **==🔴Patron Note==** |  |  |
+| **🔴Delivery email** |  |  |
+| **🔴Patron Note** |  |  |
 | **Internal Note** |  |  |
 | **Currency Code** |  |  |
-| **==🔴Monetary Value==** |  |  |
-| **==🔴System Identifier (ANBD)==** |  |  |
-| **==🔴Title==** |  |  |
-| **==🔴Subtitle==** |  |  |
-| **ISBN/****==🔴ISSN==** |  |  |
-| **==🔴Deprecated ID==** |  |  |
-| **==🔴Publisher==** |  |  |
-| **==🔴Date of Publication==** |  |  |
-| **==🔴Place of Publication==** |  |  |
-| **==🔴Edition==** |  |  |
+| **🔴Monetary Value** |  |  |
+| **🔴System Identifier (ANBD)** |  |  |
+| **🔴Title** |  |  |
+| **🔴Subtitle** |  |  |
+| **ISBN/****🔴ISSN** |  |  |
+| **🔴Deprecated ID** |  |  |
+| **🔴Publisher** |  |  |
+| **🔴Date of Publication** |  |  |
+| **🔴Place of Publication** |  |  |
+| **🔴Edition** |  |  |
 
 **Actions to take Requester:**
 
