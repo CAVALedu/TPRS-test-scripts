@@ -10,25 +10,25 @@ onenote-id: f99e763a-4675-4b94-83e7-2280fecebc02:55
 | **Fields** | **Values submitted** | **Transferred to ISO? Y/N** |
 | --- | --- | --- |
 | **Request Type** | Loan |  |
-| **==🔴Pickup Location==** |  |  |
-| **==🔴Service type==** |  |  |
-| **==🔴Service Level==** |  |  |
+| **🔴Pickup Location** |  |  |
+| **🔴Service type** |  |  |
+| **🔴Service Level** |  |  |
 | **First Name** |  |  |
 | **Last Name** |  |  |
-| **==🔴Delivery email==** |  |  |
-| **==🔴Patron Note==** |  |  |
+| **🔴Delivery email** |  |  |
+| **🔴Patron Note** |  |  |
 | **Internal Note** |  |  |
 | **Currency Code** |  |  |
-| **==🔴Monetary Value==** |  |  |
-| **==🔴System Identifier (ANBD)==** |  |  |
-| **==🔴Title==** |  |  |
-| **==🔴Subtitle==** |  |  |
-| **==🔴ISBN==****/ISSN** |  |  |
+| **🔴Monetary Value** |  |  |
+| **🔴System Identifier (ANBD)** |  |  |
+| **🔴Title** |  |  |
+| **🔴Subtitle** |  |  |
+| **🔴ISBN****/ISSN** |  |  |
 | **Deprecated ID** |  |  |
-| **==🔴Publisher==** |  |  |
-| **==🔴Date of Publication==** |  |  |
-| **==🔴Place of Publication==** |  |  |
-| **==🔴Edition==** |  |  |
+| **🔴Publisher** |  |  |
+| **🔴Date of Publication** |  |  |
+| **🔴Place of Publication** |  |  |
+| **🔴Edition** |  |  |
 
 **Actions to take Requester:**
 
@@ -37,7 +37,7 @@ onenote-id: f99e763a-4675-4b94-83e7-2280fecebc02:55
 **Actions to take Supplier**
 
 1. **Check the request number comes through**
-1. **Check all** **==🔴highlighted==** **items come through**
+1. **Check all** **🔴** **items come through**
 
 **Test Pass or Fail?**
 
